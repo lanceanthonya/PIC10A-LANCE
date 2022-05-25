@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5DE7C3B-42C0-485B-9785-8021B4AFBD97"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "5EC9B516-B5FD-444B-AF14-82E5C753C837"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x100002b4c">
+            <Locations>
+               <Location
+                  uuid = "5EC9B516-B5FD-444B-AF14-82E5C753C837 - d06fbd49a3e5b748"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HomeworkList::~HomeworkList()"
+                  moduleName = "hw"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lanceaquino/Desktop/PIC10A/HW4%20-%20%20Homework%20Calculator/hw/hw/HomeworkList.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
